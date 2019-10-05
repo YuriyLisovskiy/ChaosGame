@@ -1,0 +1,6 @@
+APP_MIN_WIDTH = 1024
+APP_MIN_HEIGHT = 800
+
+APP_NAME = 'Game of Chaos'
+
+APP_FONT = 12
